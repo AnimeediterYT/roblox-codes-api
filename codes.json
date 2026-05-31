@@ -1,17 +1,175 @@
 {
-  "blox-fruits": [
-    { "code": "UPDATE20", "reward": "2x EXP" }
-  ],
-  "sailor-piece": [
-    { "code": "SPNEW", "reward": "Boost" }
-  ],
-  "mm2": [
-    { "code": "XMAS2025", "reward": "Knife" }
-  ],
-  "pet-simulator-99": [],
-  "jujutsu-infinite": [],
-  "doors": [],
-  "king-legacy": [],
-  "blade-ball": [],
-  "smile-rng": []
+  "blox-fruits": {
+    "displayName": "🍎 Blox Fruits",
+    "codes": [
+      {
+        "code": "ADMINDARES",
+        "rewardType": "EXP",
+        "reward": "2x EXP Boost",
+        "status": "active"
+      },
+      {
+        "code": "SUB2GAMERROBOT_EXP1",
+        "rewardType": "EXP",
+        "reward": "2x EXP",
+        "status": "active"
+      },
+      {
+        "code": "SUB2UNCLEKIZARU",
+        "rewardType": "Stats",
+        "reward": "Stat Reset",
+        "status": "active"
+      }
+    ]
+  },
+
+  "mm2": {
+    "displayName": "🔪 Murder Mystery 2",
+    "codes": [
+      {
+        "code": "COMB4T2",
+        "rewardType": "Knife",
+        "reward": "Rare Combat Knife",
+        "status": "active"
+      },
+      {
+        "code": "PR1SM",
+        "rewardType": "Item",
+        "reward": "Prism Knife",
+        "status": "active"
+      }
+    ]
+  },
+
+  "shindo-life": {
+    "displayName": "🌸 Shindo Life",
+    "codes": [
+      {
+        "code": "RELLGEM400K",
+        "rewardType": "RellCoins",
+        "reward": "400k RELL Coins",
+        "status": "active"
+      },
+      {
+        "code": "RELLGEM",
+        "rewardType": "Spins",
+        "reward": "Free Spins",
+        "status": "active"
+      }
+    ]
+  },
+
+  "blade-ball": {
+    "displayName": "⚡ Blade Ball",
+    "codes": [
+      {
+        "code": "BLADES10K",
+        "rewardType": "Coins",
+        "reward": "10,000 Coins",
+        "status": "active"
+      }
+    ]
+  },
+
+  "pet-simulator-99": {
+    "displayName": "🐾 Pet Simulator 99",
+    "codes": [
+      {
+        "code": "VOIDGEMS",
+        "rewardType": "Gems",
+        "reward": "Free Gems",
+        "status": "active"
+      }
+    ]
+  },
+
+  "king-legacy": {
+    "displayName": "👑 King Legacy",
+    "codes": [
+      {
+        "code": "UPDATE5",
+        "rewardType": "Gems",
+        "reward": "Free Gems",
+        "status": "active"
+      },
+      {
+        "code": "DOUGHAWAKENING",
+        "rewardType": "Stat Reset",
+        "reward": "Reset Stats",
+        "status": "active"
+      }
+    ]
+  },
+
+  "anime-adventures": {
+    "displayName": "⚔️ Anime Adventures",
+    "codes": [
+      {
+        "code": "UPDATE20",
+        "rewardType": "Gems",
+        "reward": "Free Gems",
+        "status": "active"
+      }
+    ]
+  },
+
+  "project-slayers": {
+    "displayName": "🗡️ Project Slayers",
+    "codes": [
+      {
+        "code": "THANKYOU",
+        "rewardType": "Spins",
+        "reward": "Free Spins",
+        "status": "active"
+      }
+    ]
+  },
+
+  "fruit-battlegrounds": {
+    "displayName": "🍉 Fruit Battlegrounds",
+    "codes": [
+      {
+        "code": "GEAR5",
+        "rewardType": "Gems",
+        "reward": "Free Gems",
+        "status": "active"
+      }
+    ]
+  },
+
+  "aopg": {
+    "displayName": "🏴‍☠️ A One Piece Game",
+    "codes": [
+      {
+        "code": "NEWUPDATE",
+        "rewardType": "Boost",
+        "reward": "XP Boost",
+        "status": "active"
+      }
+    ]
+  },
+
+  "anime-vanguards": {
+    "displayName": "🛡️ Anime Vanguards",
+    "codes": [
+      {
+        "code": "VANGUARD10",
+        "rewardType": "Gems",
+        "reward": "Free Gems",
+        "status": "active"
+      }
+    ]
+  },
+
+  "jujutsu-infinite": {
+    "displayName": "🌀 Jujutsu Infinite",
+    "codes": [
+      {
+        "code": "JUJUTSUZEN",
+        "rewardType": "Spins",
+        "reward": "Free Spins",
+        "status": "active"
+      }
+    ]
+  }
 }
